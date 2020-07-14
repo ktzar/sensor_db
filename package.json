@@ -1,0 +1,28 @@
+{
+  "name": "converge-backend-exercise",
+  "version": "0.2.1",
+  "description": "Engineering exercise for full-stack candidates.",
+  "main": "main.js",
+  "keywords": [
+    "test",
+    "interview",
+    "exercise",
+    "full-stack",
+    "http-server"
+  ],
+  "author": "Gideon Farrell <gideon@converge.io>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jest": "^26.1.0",
+    "jsonschema": "^1.2.6"
+  }
+}
